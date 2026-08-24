@@ -1,0 +1,115 @@
+Conto de Cthulhu
+
+Classes:
+- Arqueólogo: explora locais antigos em busca de mais pistas sobre o Cthulhu. Ataca com um artefato antigo que ele encontrou, a Garra de Mi-Go. Passiva: (Vontade de aço) faz todos do time serem imunes a hipnose.
+Skills:
+1 - Nuvem de Poeira: ele joga um pouco da poeira que juntou em suas aventuras no inimigo, diminuindo a precisão do inimigo | Custo 10
+2 - Corte Rápido: Usa a Garra de Mi-Go para golpear o inimigo causando sangramento | Custo 20
+3 - Garra no Chão: Finca a garra no chão, causando dano em todos os inimigos | Custo 40
+Atributos:
+Ataque: 15
+Defesa: 6
+Vida: 80
+Sanidade: 100
+Energia: 60
+Precisão: 90
+Chance de crítico: 10
+
+- Investigador: Investiga pistas por Londres, que já capturou diversos criminosos. Ataca com seu revolver Webley. Passiva: (Reflexos rápidos) pode esquivar mais facilmente dos ataques.
+Skilss:
+1 - Investigar: Investiga o inimigo e descobre sua fraqueza | Custo 10
+2 - Coronhada: Bata com a parte de trás da arma na cabeça do inimigo, alta chance de crítico | Custo 25
+3 - Tiro duplo: Ao invés de um, da dois tiros que causa o dobro de dano | Custo 50
+Atributos:
+Ataque: 17
+Defesa: 7
+Vida: 90
+Sanidade: 95
+Energia: 60
+Precisão: 95
+Chance de crítico: 15
+
+- Alienista: Médico do hospício, tem uma mente forte e tem experiência com loucos. Ataca com seus equipamentos médicos. Passiva: (Mente Blindada) toda vez que alguém do time perde sanidade, ele recupera 5
+Skills: 
+1 - Sedativo: Aplica um tranquilizante que diminui os atributos do inimigo | Custo 15
+2 - Terapia de Choque: Descarrega seu aparelho experimental que causa dano elétrico no inimigo | Custo 30
+3 - Trabalho Mental: Realiza uma terapia para tratar o horror da mente, restaurando um pouco a sanidade do grupo | Custo 60
+Atributos:
+Ataque: 10
+Defesa: 6
+Vida: 85
+Sanidade: 120
+Energia: 50
+Precisão: 90
+Chance de crítico: 10
+
+- Ocultista: Forte conexão com o além-vida e conhecimento de rituais antigos. Ataca conjurando rituais. Passiva: (Sexto sentido) aumenta a chance de crítico em todas as habilidades
+Skills: 
+1 - Olhar do Vazio: Encara o inimigo com os olhos dos mortos, diminuindo a defesa do alvo | Custo 20
+2 - Chamas do Vácuo: Convoca um portal negro que expele chamas no inimigo, queimando ele por 5 turnos | Custo 40
+3 - Ritual de sangue: Corta sua própria mão e usa seu sangue em um ritual que invoca parte de um monstro, causando um dano massivo(área) em troca de metade da sua vida | Custo 80
+Atributos:
+Ataque: 20
+Defesa: 3
+Vida: 70
+Sanidade: 100
+Energia: 80
+Precisão: 90
+Chance de crítico: 25
+
+- Marujo: Anos trabalhando no porto lhe garantiu um bom porte físico. Ataca com seu arpão. Passiva: (Pele de sal) reduz todo dano recebido pelo personagem
+Skills: 
+1 - Estocada: Um ataque rápido com a ponta do arpão, tem chance de causar sangramento | Custo 10
+2 - Investida do Mar: Avança rapidamente com a ponta do arpão causando sangramento | Custo 20
+3 - Arpão Avante: Arremessa o arpão contra o inimigo causando um acerto crítico, impedindo de se mover no próximo turno  | Custo 50
+Atributos:
+Ataque: 17
+Defesa: 15
+Vida: 100
+Sanidade: 60
+Energia: 75
+Precisão: 95
+Chance de crítico: 10
+
+- Coveiro: Anos trabalhando no cemitério fez ele se familiarizar com a morte. Ataca com sua pá de ferro. Passiva: (Olhar de cadáver) assusta humanos com seu olhar, e é imune a efeitos de medo e insanidade
+Skills: 
+1 - Corte de Defunto: Movimento rápido com a pá que corta o inimigo e causa sangramento | Custo 15
+2 - Giro do Coveiro: Gira igual um louco para cima do inimigo | Custo 20
+3 - Enterro Marcado: Bate a pá em alta velocidade na cabeça do inimigo, causando um acerto crítico | Custo 50
+Atributos:
+Ataque: 14
+Defesa: 10
+Vida: 100
+Sanidade: 80
+Energia: 90
+Precisão: 90
+Chance de crítico: 15
+
+- Enfermeiro: Trabalhou no hospital por anos o que lhe deu habilidades médicas incríveis. Ataca com um bisturi. Passiva: (Vacina Anti-Morte) Imune a efeitos físicos
+Skills: 
+1 - Corte preciso: Executa um corte preciso com seu bisturi | Custo 10
+2 - Primeiros socorros: restaura 155 da vida do aliado | Custo 20
+3 - Cirurgia de Risco: Executa uma cirurgia no aliado, se der certo cura 50% da vida, mas tem baixa chance de acerto| Custo 70
+Atributos:
+Ataque: 8
+Defesa: 6
+Vida: 110
+Sanidade: 75
+Energia: 90
+Precisão: 95
+Chance de crítico: 15
+
+Classes Resumo:
+- Arqueólogo
+- Investigador
+- Alienista
+- Ocultista
+- Marujo
+- Coveiro
+- Enfermeiro
+
+
+Como Jogar:
+Você escolhe seu personagem principal, cada personagem tem seu local de início e sua história. Você vai passar pela área que iniciou sozinho, ao completar, você pode escolher outros caminhos a seguir, aí você vai para a área de outro personagem e o encontra, você escolhe se ele se junta ou não ao seu time, e você deve completar a área que entrou.
+
+Após juntar 4 aliados, você entrará em uma masmorra, cada masmorra tem seu boss e sua contribuição para a história do jogo. Após completar todas as masmorras, você enfrentará o boss final, o Cthulhu.
