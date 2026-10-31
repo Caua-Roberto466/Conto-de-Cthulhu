@@ -29,6 +29,8 @@ Conto de Cthulhu é um RPG por turnos jogado inteiramente no terminal. Você esc
 
 Cada personagem tem sua própria história, área de início e conjunto único de habilidades. O objetivo final é reunir um time de 4 aliados, atravessar as masmorras e enfrentar o **Cthulhu** no confronto final.
 
+Ao longo da jornada você descobrira coisas interessantes sobre o mundo, coisas que desafiam a lógica humana
+
 ---
 
 ## 🎮 Como jogar
